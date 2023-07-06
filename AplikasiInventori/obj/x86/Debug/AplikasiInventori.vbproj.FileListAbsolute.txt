@@ -1,0 +1,229 @@
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbprojResolveAssemblyReference.cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbprojResolveAssemblyReference.cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTambahAdmin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.AssemblyReference.cache
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTambahAdmin.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.cache
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.CoreCompileInputs.cache
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\FlashControlV71.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.CopyComplete
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\log4net.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\log4net.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Contrib.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Core.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Framework.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.Collections.Immutable.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.ValueTuple.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\stdole.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Core.pdb
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Core.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Framework.pdb
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\DotVVM.Framework.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.Collections.Immutable.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\System.ValueTuple.xml
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.SuggestedBindingRedirects.cache
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\EnvDTE.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Microsoft.MSXML.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.ResolveComReference.cache
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form2beli.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBahan.resources
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe.manifest
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.application
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe.manifest
+C:\Users\erik2\Downloads\Compressed\Aplikasi-Kasir-Restaurant-VB-2010-master\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.application
